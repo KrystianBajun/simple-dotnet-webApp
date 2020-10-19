@@ -1,11 +1,17 @@
 # simple-dotnet-webApp
-simple dotnet crud
+Simple dotnet crud
 
-to run :
-1) docker build -t webapp .
-2) docker run -d -p 8080:80 --name webapp webapp
+## Stack
 
-controller on endpoint :
-http://localhost:8080/api/hello
+.NET Core 3.1
+Microsoft SQL Server 2019-CU3-ubuntu-18.04
+Docker
 
-CRUD on /films
+## Endpoints
+
+CRUD http://localhost:8080/films
+
+GET all movies http://localhost:8080/api/values
+
+## Steps to run
+1) docker-compose up
