@@ -16,4 +16,5 @@ CRUD http://localhost:8080/films
 GET all movies http://localhost:8080/api/values
 
 ## Steps to run
-1) docker-compose up
+1) docker-compose up ms-sql-server
+2) docker-compose up movies-app
