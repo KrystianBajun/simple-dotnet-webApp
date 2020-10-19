@@ -4,7 +4,9 @@ Simple dotnet crud
 ## Stack
 
 .NET Core 3.1
+
 Microsoft SQL Server 2019-CU3-ubuntu-18.04
+
 Docker
 
 ## Endpoints
