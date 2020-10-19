@@ -8825,11 +8825,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Krystian\\source\\repos\\webApp\\webApp\\webApp.csproj",
+      "projectUniqueName": "C:\\Users\\Krystian\\Desktop\\own_projects\\simple-dotnet-webApp\\webApp.csproj",
       "projectName": "webApp",
-      "projectPath": "C:\\Users\\Krystian\\source\\repos\\webApp\\webApp\\webApp.csproj",
+      "projectPath": "C:\\Users\\Krystian\\Desktop\\own_projects\\simple-dotnet-webApp\\webApp.csproj",
       "packagesPath": "C:\\Users\\Krystian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Krystian\\source\\repos\\webApp\\webApp\\obj\\",
+      "outputPath": "C:\\Users\\Krystian\\Desktop\\own_projects\\simple-dotnet-webApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Krystian\\AppData\\Roaming\\NuGet\\NuGet.Config",
